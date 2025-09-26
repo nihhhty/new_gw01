@@ -27,7 +27,7 @@ const EMAILADDRESS = 'Email_Address'
         1.Eligibility to Use the Service
       </div>
       <div class="T_content">
-        You must be at least 17 years old to access or use the Service. If you register for an account using an email platform, you must have a valid email address. If you create an account, you represent and warrant that you have never been convicted of a felony and that you are not required to register as a sex offender with any government agency. Use of the Service may be prohibited or restricted in certain countries. If you use the Service outside of the United States, you are responsible for complying with the laws and regulations of the region from which you access or use the Service.
+        You must be at least 18 years old to access or use the Service. If you register for an account using an email platform, you must have a valid email address. If you create an account, you represent and warrant that you have never been convicted of a felony and that you are not required to register as a sex offender with any government agency. Use of the Service may be prohibited or restricted in certain countries. If you use the Service outside of the United States, you are responsible for complying with the laws and regulations of the region from which you access or use the Service.
         <br><br>
         You are responsible for maintaining the security of your account and ensuring that no unauthorized person has access to your account. If an unauthorized person has accessed your account, you must immediately notify {{ APPNAME }} at {{ EMAILADDRESS }}. You will not be able to access or use the Service if you have previously been suspended or canceled from the Service.
       </div>
