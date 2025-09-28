@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const APPNAME = 'Aveoia'
-const EMAILADDRESS = 'Email_Address'
+const EMAILADDRESS = 'zuo4627jiatang@163.com'
 </script>
 
 <template>
